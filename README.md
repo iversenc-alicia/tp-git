@@ -36,7 +36,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - Faire vous-même un nouveau fichier `.gitignore` à la racine.
     - Sélectionner les mêmes choix sur le site [gitignore.io]
     - Copier le contenu généré dans votre fichier `.gitignore`
-- [ ] cocher et faire commit "ajout .gitignore"
+- [**X**] cocher et faire commit "ajout .gitignore"
 
 [gitignore.io]: http://gitignore.io
 
@@ -45,7 +45,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 - Faire un fichier `/public/video/a-ignorer.txt`
 - Ajouter en fin de fichier `.gitignore` la ligne suivante :
   - `/public/video`
-- [ ] cocher et commit "ajout dossier à .gitignore"
+- [] cocher et commit "ajout dossier à .gitignore"
 - Synchroniser les commit avec Github
   - constater que le fichier `/public/video/a-ignorer.txt` n'a pas été publié sur Github
 
